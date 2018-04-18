@@ -1,6 +1,8 @@
 # ChowNow-Theme-Wordpress
 ChowNow Wordpress Theme
 
+![ChowNow](https://raw.githubusercontent.com/planlodge/ChowNow-Theme-Wordpress/master/screenshot.png)
+
 ### Prerequisites
 
 - PHP 5.6+
