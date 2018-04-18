@@ -1,5 +1,7 @@
-# ChowNow-Theme-Wordpress
-ChowNow Wordpress Theme
+# ChowNow Theme Wordpress
+
+Online ordering built just for your restaurant.
+Your brand. Your customers. Your online ordering system. 
 
 ![ChowNow](https://raw.githubusercontent.com/planlodge/ChowNow-Theme-Wordpress/master/screenshot.png)
 
